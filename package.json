@@ -1,0 +1,25 @@
+{
+  "name": "firebase-fireworks",
+  "version": "1.0.0",
+  "description": "A digital adaptation of the Hanabi card game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavarius/firebase-fireworks.git"
+  },
+  "keywords": [
+    "hanabi",
+    "firebase",
+    "fireworks",
+    "game"
+  ],
+  "author": "Daniel Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavarius/firebase-fireworks/issues"
+  },
+  "homepage": "https://github.com/mavarius/firebase-fireworks#readme"
+}
